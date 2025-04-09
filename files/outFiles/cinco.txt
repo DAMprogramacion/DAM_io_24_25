@@ -1,0 +1,2 @@
+entero: 26; decimal: 3,14, boolean: TRUE
+caracter: ü, cadena: Esto es una cadena

@@ -1,4 +1,4 @@
-package org.example.introduccion.escribiendoFicheros;
+package org.example.introduccion.escribiendoFicheros.bytes;
 
 import java.io.*;
 import java.util.Random;
